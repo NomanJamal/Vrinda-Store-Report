@@ -23,3 +23,5 @@ Business Insights Generation
 Helps in decision-making using data-driven insights
 User-Friendly Interface
 Simple and clean layout for easy navigation
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c9d183d2-30da-4db9-9354-c90daebca777" />
+
